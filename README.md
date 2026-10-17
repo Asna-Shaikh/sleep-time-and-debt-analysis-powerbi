@@ -5,7 +5,7 @@ A data-driven Power BI dashboard examining the impact of daily screen time on ov
 
 ## 📸 Dashboard Preview
 <!-- Replace 'sleep_dashboard_ss.png' with your actual screenshot filename if different -->
-![Sleep Dashboard](sleep_dashboard_ss.png)
+![Sleep Dashboard](sleep20%debt20%dashboard20%ss.png)
 
 ## 🛠️ Tools Used
 * **Business Intelligence:** Power BI Desktop
